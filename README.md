@@ -22,17 +22,6 @@ The paper analyzes topic coverage in existing benchmarks for financial large lan
 
 Topic extraction was performed with **BERTopic**, followed by **manual validation and refinement**.
 
-## Manual operations
-
-Each cluster was assigned one of four actions:
-
-- **Keep as is**
-- **Rename**
-- **Merge**
-- **Discard**
-
-These criteria are described in the supplementary materials.
-
 ## Purpose
 
 The repository is intended to improve transparency and reproducibility by providing the materials referenced in the paper but omitted from the main text due to space limitations.
