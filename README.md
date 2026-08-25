@@ -1,4 +1,4 @@
-# Topic Coverage in Financial LLM Benchmarks: Structure Analysis and Recommendations
+# A Method for Analyzing the Structure of Thematic Coverage in Benchmarks for Language Models
 
 This repository contains supplementary materials for the paper **“Topic Coverage in Financial LLM Benchmarks: Structure Analysis and Recommendations”**
 
