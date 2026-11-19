@@ -1,0 +1,240 @@
+No.,Source,Source type,Source section,Source category,Topic,Subtopic
+1,CFA Candidate Body of Knowledge,Professional curriculum,Ethical and Professional Standards,Professional Standards of Practice,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+2,CFA Candidate Body of Knowledge,Professional curriculum,Ethical and Professional Standards,Ethical Practices,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+3,CFA Candidate Body of Knowledge,Professional curriculum,Ethical and Professional Standards,Asset Manager Code of Professional Conduct,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+4,CFA Candidate Body of Knowledge,Professional curriculum,Ethical and Professional Standards,Presentation of Performance Results (GIPS),"Ethics, Sustainability & Professional Practice",Performance Standards & GIPS
+5,CFA Candidate Body of Knowledge,Professional curriculum,Quantitative Methods,Time Value of Money,Quantitative Methods & Financial Data,Time Value & Financial Mathematics
+6,CFA Candidate Body of Knowledge,Professional curriculum,Quantitative Methods,Probability Distributions and Concepts,Quantitative Methods & Financial Data,Probability & Statistics
+7,CFA Candidate Body of Knowledge,Professional curriculum,Quantitative Methods,Sampling and Estimation,Quantitative Methods & Financial Data,Probability & Statistics
+8,CFA Candidate Body of Knowledge,Professional curriculum,Quantitative Methods,Regression Analysis,Quantitative Methods & Financial Data,Econometrics & Regression
+9,CFA Candidate Body of Knowledge,Professional curriculum,Quantitative Methods,Artificial Intelligence/Machine Learning and Big Data Analysis and Applications,Quantitative Methods & Financial Data,Machine Learning & Big Data
+10,CFA Candidate Body of Knowledge,Professional curriculum,Quantitative Methods,Time-Series Analysis,Quantitative Methods & Financial Data,Time Series & Forecasting
+11,CFA Candidate Body of Knowledge,Professional curriculum,Quantitative Methods,"Back-testing, Simulation, and Scenario Analysis",Quantitative Methods & Financial Data,"Simulation, Scenario & Stress Testing"
+12,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Market Forces of Supply and Demand,Economics & Monetary Systems,Microeconomics & Market Structure
+13,CFA Candidate Body of Knowledge,Professional curriculum,Economics,The Firm and Industry Organization,Economics & Monetary Systems,Microeconomics & Market Structure
+14,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Business Cycles,Economics & Monetary Systems,Macroeconomics & Business Cycles
+15,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Inflation and Deflation,Economics & Monetary Systems,Macroeconomics & Business Cycles
+16,CFA Candidate Body of Knowledge,Professional curriculum,Economics,International Trade and Capital Flows,Economics & Monetary Systems,International Economics & Trade
+17,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Currency Exchange Rates,Economics & Monetary Systems,Foreign Exchange & Currency
+18,CFA Candidate Body of Knowledge,Professional curriculum,Economics,"Monetary System, Monetary and Fiscal Policy",Economics & Monetary Systems,Monetary Policy & Central Banking
+19,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Economic Growth and Development,Economics & Monetary Systems,Economic Growth & Development
+20,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Effects of Regulations,"Regulation, Law & Taxation",Financial Regulation & Supervision
+21,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Economic Analysis and Setting Capital Market Expectations,Economics & Monetary Systems,Macroeconomics & Business Cycles
+22,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Effects of Geopolitics on Economies and Investment Markets,Economics & Monetary Systems,Political Economy & Geopolitics
+23,CFA Candidate Body of Knowledge,Professional curriculum,Economics,Applications of Economic Factors in the Investment Process,Economics & Monetary Systems,Macroeconomics & Business Cycles
+24,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Analysis of Financial Statements,"Accounting, Reporting & Audit",Statement Analysis & Ratios
+25,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Financial Reporting Quality,"Accounting, Reporting & Audit",Reporting Standards & Quality
+26,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Analysis of Off-Balance-Sheet Assets and Liabilities,"Accounting, Reporting & Audit",Financial Statements & Reporting
+27,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Analysis of Stock Compensation and Other Employee Benefits,"Accounting, Reporting & Audit",Financial Statements & Reporting
+28,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Analysis of Intercorporate Investments and Business Combinations,"Accounting, Reporting & Audit",Consolidation & Business Combinations
+29,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Analysis of Global Operations,"Accounting, Reporting & Audit",Statement Analysis & Ratios
+30,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Building a Company Financial Model,"Accounting, Reporting & Audit",Financial Statements & Reporting
+31,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Ratio and Financial Analysis,"Accounting, Reporting & Audit",Statement Analysis & Ratios
+32,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,Financial Analysis of Banks and Insurance Companies,"Accounting, Reporting & Audit",Financial Statements & Reporting
+33,CFA Candidate Body of Knowledge,Professional curriculum,Financial Statement Analysis,ESG Considerations in Financial Statement Analysis,"Ethics, Sustainability & Professional Practice",Sustainable Finance & ESG
+34,CFA Candidate Body of Knowledge,Professional curriculum,Corporate Issuers,Corporate Structures and Strategies,Corporate Finance & Governance,Corporate Strategy & Restructuring
+35,CFA Candidate Body of Knowledge,Professional curriculum,Corporate Issuers,Corporate Ownership and Governance,Corporate Finance & Governance,Corporate Governance & Ownership
+36,CFA Candidate Body of Knowledge,Professional curriculum,Corporate Issuers,Risk Factors (including environmental and social),Risk Management & Insurance,Enterprise Risk Management
+37,CFA Candidate Body of Knowledge,Professional curriculum,Corporate Issuers,Corporate Financing Decisions,Corporate Finance & Governance,Capital Structure & Financing
+38,CFA Candidate Body of Knowledge,Professional curriculum,Corporate Issuers,"Corporate Actions, Combinations, and Restructuring",Corporate Finance & Governance,"Mergers, Acquisitions & Corporate Actions"
+39,CFA Candidate Body of Knowledge,Professional curriculum,Equity Investments,Types of Equity Securities and Markets,Financial Markets & Instruments,Structured Products & Securitization
+40,CFA Candidate Body of Knowledge,Professional curriculum,Equity Investments,Fundamental Equity Analysis,Investment & Portfolio Management,Equity Analysis & Valuation
+41,CFA Candidate Body of Knowledge,Professional curriculum,Equity Investments,Valuation of Individual Equity Securities,Financial Markets & Instruments,Structured Products & Securitization
+42,CFA Candidate Body of Knowledge,Professional curriculum,Equity Investments,Equity Market Valuation,Financial Markets & Instruments,Equity Markets & Securities
+43,CFA Candidate Body of Knowledge,Professional curriculum,Equity Investments,ESG Considerations in Equity Investments,"Ethics, Sustainability & Professional Practice",Sustainable Finance & ESG
+44,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Types of Fixed Income Securities and Markets,Financial Markets & Instruments,Structured Products & Securitization
+45,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Fundamental Fixed Income,Investment & Portfolio Management,Fixed Income Analysis & Valuation
+46,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Term Structure Determination and Yield Spreads,Financial Markets & Instruments,Interest Rates & Yield Curves
+47,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Valuation of Individual Fixed Income Securities,Financial Markets & Instruments,Structured Products & Securitization
+48,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Analysis of Interest Rate Risk,Risk Management & Insurance,Interest Rate Risk
+49,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Analysis of Credit Risk,Risk Management & Insurance,Credit & Counterparty Risk
+50,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Valuing Bonds with Embedded Options,Financial Markets & Instruments,Options
+51,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,Structured Products,Financial Markets & Instruments,Structured Products & Securitization
+52,CFA Candidate Body of Knowledge,Professional curriculum,Fixed Income,ESG Considerations in Fixed Income,"Ethics, Sustainability & Professional Practice",Sustainable Finance & ESG
+53,CFA Candidate Body of Knowledge,Professional curriculum,Derivatives,Types of Derivative Instruments and Markets,Financial Markets & Instruments,Financial Products & Services
+54,CFA Candidate Body of Knowledge,Professional curriculum,Derivatives,Valuation of Forwards and Futures Contracts,"Regulation, Law & Taxation",Financial Contracts & Legal Entities
+55,CFA Candidate Body of Knowledge,Professional curriculum,Derivatives,Valuation of Option Contracts,"Regulation, Law & Taxation",Financial Contracts & Legal Entities
+56,CFA Candidate Body of Knowledge,Professional curriculum,Derivatives,Valuation of Swap Contracts,"Regulation, Law & Taxation",Financial Contracts & Legal Entities
+57,CFA Candidate Body of Knowledge,Professional curriculum,Derivatives,Currency Management,Economics & Monetary Systems,Foreign Exchange & Currency
+58,CFA Candidate Body of Knowledge,Professional curriculum,Derivatives,Risk Management (including Environmental Risk),Risk Management & Insurance,ESG & Climate Risk
+59,CFA Candidate Body of Knowledge,Professional curriculum,Alternative Investments,Types of Alternative Investments,Investment & Portfolio Management,Alternative Investments
+60,CFA Candidate Body of Knowledge,Professional curriculum,Alternative Investments,Real Estate,Financial Markets & Instruments,Commodities & Real Assets
+61,CFA Candidate Body of Knowledge,Professional curriculum,Alternative Investments,"Real Assets (including Infrastructure, Timber and Farm Land)",Financial Markets & Instruments,Commodities & Real Assets
+62,CFA Candidate Body of Knowledge,Professional curriculum,Alternative Investments,"Private Capital (including Private Equity, Private Credit and Venture Capital)",Investment & Portfolio Management,Private Markets & Capital
+63,CFA Candidate Body of Knowledge,Professional curriculum,Alternative Investments,Hedge Funds,Investment & Portfolio Management,Alternative Investments
+64,CFA Candidate Body of Knowledge,Professional curriculum,Alternative Investments,Commodities,Financial Markets & Instruments,Commodities & Real Assets
+65,CFA Candidate Body of Knowledge,Professional curriculum,Alternative Investments,ESG Considerations in Alternative Investments,"Ethics, Sustainability & Professional Practice",Sustainable Finance & ESG
+66,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,The Investment Policy Statement,Investment & Portfolio Management,Investment Policy & Client Objectives
+67,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Modern Portfolio Management Concepts,Investment & Portfolio Management,Portfolio Theory & Asset Allocation
+68,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Investment Vehicles (including ETFs and Mutual Funds),Investment & Portfolio Management,Investment Vehicles & Funds
+69,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Market Efficiency and Passive Investing,Investment & Portfolio Management,Behavioral Finance
+70,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Market Indexes,Quantitative Methods & Financial Data,"Market Data, Indices & Benchmarks"
+71,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Behavioral Finance,Investment & Portfolio Management,Behavioral Finance
+72,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,"Environmental, Social, and Governance (ESG) Investing","Ethics, Sustainability & Professional Practice",Sustainable Finance & ESG
+73,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Management of Individual/Family Investor Portfolios,Investment & Portfolio Management,Portfolio Theory & Asset Allocation
+74,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Tax Impact of Investment Decisions,"Regulation, Law & Taxation",Tax Planning
+75,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Management of Institutional Investor Portfolios,Investment & Portfolio Management,Institutional Investing
+76,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Investment Manager Selection,Investment & Portfolio Management,Performance Measurement & Attribution
+77,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Asset Allocation,Investment & Portfolio Management,Portfolio Theory & Asset Allocation
+78,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Portfolio Construction and Revision,Investment & Portfolio Management,Portfolio Construction & Rebalancing
+79,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Currency Management,Economics & Monetary Systems,Foreign Exchange & Currency
+80,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Liability-Driven Investments,Investment & Portfolio Management,Portfolio Construction & Rebalancing
+81,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Risk Management (including environmental risk),Risk Management & Insurance,ESG & Climate Risk
+82,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Execution of Portfolio Decisions (including Trading and Market Microstructure),Financial Markets & Instruments,Market Microstructure & Trading
+83,CFA Candidate Body of Knowledge,Professional curriculum,Portfolio Management and Wealth Planning,Performance Attribution and Appraisal,Investment & Portfolio Management,Performance Measurement & Attribution
+84,FRM Curriculum,Professional curriculum,FRM Exam Part I,Foundations of Risk Management,Risk Management & Insurance,Risk Foundations & Governance
+85,FRM Curriculum,Professional curriculum,FRM Exam Part I,Quantitative Analysis,Quantitative Methods & Financial Data,Financial Modeling & Analytics
+86,FRM Curriculum,Professional curriculum,FRM Exam Part I,Financial Markets and Products,Financial Markets & Instruments,Financial Products & Services
+87,FRM Curriculum,Professional curriculum,FRM Exam Part I,Valuation and Risk Models,Risk Management & Insurance,Model Risk & Valuation
+88,FRM Curriculum,Professional curriculum,FRM Exam Part II,Market Risk Measurement and Management,Risk Management & Insurance,Market Risk
+89,FRM Curriculum,Professional curriculum,FRM Exam Part II,Credit Risk Measurement and Management,Risk Management & Insurance,Credit & Counterparty Risk
+90,FRM Curriculum,Professional curriculum,FRM Exam Part II,Operational Risk and Resilience,"Accounting, Reporting & Audit",Statement Analysis & Ratios
+91,FRM Curriculum,Professional curriculum,FRM Exam Part II,Liquidity and Treasury Risk Measurement and Management,Risk Management & Insurance,Liquidity Risk
+92,FRM Curriculum,Professional curriculum,FRM Exam Part II,Risk Management and Investment Management,Risk Management & Insurance,Enterprise Risk Management
+93,FRM Curriculum,Professional curriculum,FRM Exam Part II,Current Issues in Financial Markets,Financial Markets & Instruments,Financial Products & Services
+94,ACCA Exams and Performance Objectives,Competency map,Business and Technology,Ethics and professionalism,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+95,ACCA Exams and Performance Objectives,Competency map,Business and Technology,Stakeholder relationship management,"Ethics, Sustainability & Professional Practice",Stakeholder Management & Leadership
+96,ACCA Exams and Performance Objectives,Competency map,Business and Technology,"Governance, risk and control",Risk Management & Insurance,Risk Foundations & Governance
+97,ACCA Exams and Performance Objectives,Competency map,Business and Technology,Leadership and management,"Ethics, Sustainability & Professional Practice",Stakeholder Management & Leadership
+98,ACCA Exams and Performance Objectives,Competency map,Business and Technology,Data analysis and decision support,Quantitative Methods & Financial Data,Financial Modeling & Analytics
+99,ACCA Exams and Performance Objectives,Competency map,Management Accounting,Evaluate management accounting systems,"Accounting, Reporting & Audit",Management & Cost Accounting
+100,ACCA Exams and Performance Objectives,Competency map,Management Accounting,Plan and control performance,"Accounting, Reporting & Audit",Budgeting & Performance Control
+101,ACCA Exams and Performance Objectives,Competency map,Management Accounting,Monitor performance,"Accounting, Reporting & Audit",Budgeting & Performance Control
+102,ACCA Exams and Performance Objectives,Competency map,Management Accounting,Data analysis and decision support,"Accounting, Reporting & Audit",Financial Statements & Reporting
+103,ACCA Exams and Performance Objectives,Competency map,Financial Accounting,Ethics and professionalism,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+104,ACCA Exams and Performance Objectives,Competency map,Financial Accounting,Record and process transactions and events,"Accounting, Reporting & Audit",Bookkeeping & Transactions
+105,ACCA Exams and Performance Objectives,Competency map,Financial Accounting,Prepare external financial reports,"Accounting, Reporting & Audit",Financial Statements & Reporting
+106,ACCA Exams and Performance Objectives,Competency map,Financial Accounting,Analyse and interpret financial reports,"Accounting, Reporting & Audit",Statement Analysis & Ratios
+107,ACCA Exams and Performance Objectives,Competency map,Corporate and Business Law,Ethics and professionalism,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+108,ACCA Exams and Performance Objectives,Competency map,Corporate and Business Law,"Governance, risk and control",Risk Management & Insurance,Risk Foundations & Governance
+109,ACCA Exams and Performance Objectives,Competency map,Performance Management,Evaluate management accounting systems,"Accounting, Reporting & Audit",Management & Cost Accounting
+110,ACCA Exams and Performance Objectives,Competency map,Performance Management,Plan and control performance,"Accounting, Reporting & Audit",Budgeting & Performance Control
+111,ACCA Exams and Performance Objectives,Competency map,Performance Management,Monitor performance,"Accounting, Reporting & Audit",Budgeting & Performance Control
+112,ACCA Exams and Performance Objectives,Competency map,Performance Management,Data analysis and decision support,Quantitative Methods & Financial Data,Financial Modeling & Analytics
+113,ACCA Exams and Performance Objectives,Competency map,Taxation,Ethics and professionalism,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+114,ACCA Exams and Performance Objectives,Competency map,Taxation,Tax computations and assessments,"Regulation, Law & Taxation",Tax Computation & Compliance
+115,ACCA Exams and Performance Objectives,Competency map,Taxation,Tax compliance and verification,"Regulation, Law & Taxation",Tax Computation & Compliance
+116,ACCA Exams and Performance Objectives,Competency map,Taxation,Tax planning and advice,"Regulation, Law & Taxation",Tax Planning
+117,ACCA Exams and Performance Objectives,Competency map,Financial Reporting,Ethics and professionalism,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+118,ACCA Exams and Performance Objectives,Competency map,Financial Reporting,Stakeholder relationship management,"Ethics, Sustainability & Professional Practice",Stakeholder Management & Leadership
+119,ACCA Exams and Performance Objectives,Competency map,Financial Reporting,Record and process transactions and events,"Accounting, Reporting & Audit",Bookkeeping & Transactions
+120,ACCA Exams and Performance Objectives,Competency map,Financial Reporting,Prepare external financial reports,"Accounting, Reporting & Audit",Financial Statements & Reporting
+121,ACCA Exams and Performance Objectives,Competency map,Financial Reporting,Analyse and interpret financial reports,"Accounting, Reporting & Audit",Statement Analysis & Ratios
+122,ACCA Exams and Performance Objectives,Competency map,Audit and Assurance,"Governance, risk and control",Risk Management & Insurance,Risk Foundations & Governance
+123,ACCA Exams and Performance Objectives,Competency map,Audit and Assurance,Prepare for and plan the audit and assurance process,"Accounting, Reporting & Audit",Audit Planning & Risk
+124,ACCA Exams and Performance Objectives,Competency map,Audit and Assurance,Collect and evaluate evidence for an audit or assurance engagement,"Accounting, Reporting & Audit",Audit Evidence & Procedures
+125,ACCA Exams and Performance Objectives,Competency map,Audit and Assurance,Review and report on the findings of an audit or assurance engagement,"Accounting, Reporting & Audit",Audit Reporting & Assurance
+126,ACCA Exams and Performance Objectives,Competency map,Financial Management,Ethics and professionalism,"Ethics, Sustainability & Professional Practice",Professional Ethics & Conduct
+127,ACCA Exams and Performance Objectives,Competency map,Financial Management,Evaluate investment and financing decisions,Corporate Finance & Governance,Capital Budgeting & Investment Decisions
+128,ACCA Exams and Performance Objectives,Competency map,Financial Management,Manage and control working capital,Corporate Finance & Governance,Working Capital Management
+129,ACCA Exams and Performance Objectives,Competency map,Financial Management,Identify and manage financial risk,Risk Management & Insurance,Enterprise Risk Management
+130,ACCA Exams and Performance Objectives,Competency map,Financial Management,Data analysis and decision support,Quantitative Methods & Financial Data,Financial Modeling & Analytics
+131,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Money and Transactions,Money and Currencies,Personal Finance & Wealth Planning,"Money, Currency & Payments"
+132,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Money and Transactions,Income,Personal Finance & Wealth Planning,"Income, Spending & Budgeting"
+133,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Money and Transactions,"Prices, Purchases and Payments","Banking, Credit & Treasury",Payments & Transactions
+134,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Money and Transactions,Financial Records and Contracts,Personal Finance & Wealth Planning,Financial Records & Contracts
+135,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Budgeting,Personal Finance & Wealth Planning,"Income, Spending & Budgeting"
+136,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Managing Income and Expenditure,Personal Finance & Wealth Planning,"Income, Spending & Budgeting"
+137,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Saving,Personal Finance & Wealth Planning,Saving & Emergency Funds
+138,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Investing,Personal Finance & Wealth Planning,Personal Investing
+139,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Longer-Term Planning and Asset Building,Personal Finance & Wealth Planning,Retirement Planning
+140,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Retirement,Personal Finance & Wealth Planning,Retirement Planning
+141,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Credit,Personal Finance & Wealth Planning,Borrowing & Debt Management
+142,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Planning and Managing Finances,Debt and Debt Management,Personal Finance & Wealth Planning,Borrowing & Debt Management
+143,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Risk and Reward,Identifying Risks,Risk Management & Insurance,Risk Foundations & Governance
+144,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Risk and Reward,Financial Safety Nets and Insurance,Risk Management & Insurance,Insurance & Actuarial Topics
+145,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Risk and Reward,Balancing Risk and Reward,Risk Management & Insurance,Risk-Return Trade-off & Diversification
+146,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Financial Landscape,Regulation and Consumer Protection,"Regulation, Law & Taxation",Consumer Protection & Financial Rights
+147,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Financial Landscape,Rights and Responsibilities of Consumers,"Regulation, Law & Taxation",Consumer Protection & Financial Rights
+148,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Financial Landscape,"Financial Education, Information and Advice","Ethics, Sustainability & Professional Practice",Financial Literacy & Education
+149,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Financial Landscape,Financial Products and Services,Financial Markets & Instruments,Financial Products & Services
+150,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Financial Landscape,Scams and Fraud,"Regulation, Law & Taxation","Financial Crime, Fraud & AML"
+151,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Financial Landscape,Tax and Public Spending,"Regulation, Law & Taxation",Public Finance & Government Spending
+152,EU/OECD-INFE Financial Competence Framework for Adults,Competence framework,Financial Landscape,External Influences on Financial Decisions,Investment & Portfolio Management,Behavioral Finance
+153,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Business Entities,Corporate Finance & Governance,Corporate Governance & Ownership
+154,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Business Process,Financial Markets & Instruments,Market Microstructure & Trading
+155,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Corporate Actions and Events,Corporate Finance & Governance,"Mergers, Acquisitions & Corporate Actions"
+156,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Derivatives,Financial Markets & Instruments,Financial Products & Services
+157,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Financial Business and Commerce,Financial Markets & Instruments,Financial Institutions & Intermediaries
+158,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Foundations,"Regulation, Law & Taxation",Financial Contracts & Legal Entities
+159,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Indices and Indicators,Quantitative Methods & Financial Data,"Market Data, Indices & Benchmarks"
+160,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Loans,"Banking, Credit & Treasury",Lending & Credit Products
+161,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Market Data,Quantitative Methods & Financial Data,"Market Data, Indices & Benchmarks"
+162,Financial Industry Business Ontology (FIBO),Ontology,FIBO Domains,Securities,Financial Markets & Instruments,Structured Products & Securitization
+163,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Accounting,"Accounting, Reporting & Audit",Financial Statements & Reporting
+164,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Advanced Financial Accounting,"Accounting, Reporting & Audit",Financial Statements & Reporting
+165,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Auditing,"Accounting, Reporting & Audit",Audit Planning & Risk
+166,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Corporate Strategy And Risk Management,"Accounting, Reporting & Audit",Financial Statements & Reporting
+167,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Cost Accounting,"Accounting, Reporting & Audit",Management & Cost Accounting
+168,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Economic Law,"Regulation, Law & Taxation",Corporate & Commercial Law
+169,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Financial Management,"Accounting, Reporting & Audit",Financial Statements & Reporting
+170,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Intermediate Financial Accounting,"Accounting, Reporting & Audit",Financial Statements & Reporting
+171,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Management Accounting,"Accounting, Reporting & Audit",Management & Cost Accounting
+172,FinEval Benchmark Taxonomy,Benchmark taxonomy,Accounting,Tax Law,"Regulation, Law & Taxation",Tax Computation & Compliance
+173,FinEval Benchmark Taxonomy,Benchmark taxonomy,Certificate,Banking Practitioner Qualification Certificate,"Banking, Credit & Treasury",Banking Regulation & Prudential Supervision
+174,FinEval Benchmark Taxonomy,Benchmark taxonomy,Certificate,Certified Management Accountant,"Accounting, Reporting & Audit",Financial Statements & Reporting
+175,FinEval Benchmark Taxonomy,Benchmark taxonomy,Certificate,Certified Practising Accountant,"Accounting, Reporting & Audit",Financial Statements & Reporting
+176,FinEval Benchmark Taxonomy,Benchmark taxonomy,Certificate,China Actuary,Risk Management & Insurance,Insurance & Actuarial Topics
+177,FinEval Benchmark Taxonomy,Benchmark taxonomy,Certificate,Fund Qualification Certificate,Financial Markets & Instruments,Financial Products & Services
+178,FinEval Benchmark Taxonomy,Benchmark taxonomy,Certificate,Futures Practitioner Qualification Certificate,Financial Markets & Instruments,Financial Products & Services
+179,FinEval Benchmark Taxonomy,Benchmark taxonomy,Certificate,Securities Practitioner Qualification Certificate,Financial Markets & Instruments,Financial Products & Services
+180,FinEval Benchmark Taxonomy,Benchmark taxonomy,Economy,Econometrics,Economics & Monetary Systems,Macroeconomics & Business Cycles
+181,FinEval Benchmark Taxonomy,Benchmark taxonomy,Economy,International Economics,Economics & Monetary Systems,International Economics & Trade
+182,FinEval Benchmark Taxonomy,Benchmark taxonomy,Economy,Macroeconomics,Economics & Monetary Systems,Macroeconomics & Business Cycles
+183,FinEval Benchmark Taxonomy,Benchmark taxonomy,Economy,Microeconomics,Economics & Monetary Systems,Microeconomics & Market Structure
+184,FinEval Benchmark Taxonomy,Benchmark taxonomy,Economy,Political Economy,Economics & Monetary Systems,Political Economy & Geopolitics
+185,FinEval Benchmark Taxonomy,Benchmark taxonomy,Economy,Public Finance,Economics & Monetary Systems,Fiscal Policy & Public Finance
+186,FinEval Benchmark Taxonomy,Benchmark taxonomy,Economy,Statistics,Economics & Monetary Systems,Macroeconomics & Business Cycles
+187,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Central Banking,Economics & Monetary Systems,Monetary Policy & Central Banking
+188,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Commercial Bank Finance,"Banking, Credit & Treasury",Commercial & Corporate Banking
+189,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Corporate Finance,Corporate Finance & Governance,Capital Structure & Financing
+190,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Finance,Financial Markets & Instruments,Financial Products & Services
+191,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Financial Engineering,Quantitative Methods & Financial Data,Financial Modeling & Analytics
+192,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Financial Markets,Financial Markets & Instruments,Financial Products & Services
+193,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Insurance,Risk Management & Insurance,Insurance & Actuarial Topics
+194,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,International Finance,Economics & Monetary Systems,International Economics & Trade
+195,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Investments,Investment & Portfolio Management,Portfolio Theory & Asset Allocation
+196,FinEval Benchmark Taxonomy,Benchmark taxonomy,Finance,Monetary Finance,Economics & Monetary Systems,Monetary Policy & Central Banking
+197,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Banking Law,"Regulation, Law & Taxation",Financial Regulation & Supervision
+198,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Civil Law,"Regulation, Law & Taxation",Corporate & Commercial Law
+199,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Commercial Law,"Regulation, Law & Taxation",Corporate & Commercial Law
+200,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Economic Law,"Regulation, Law & Taxation",Corporate & Commercial Law
+201,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Financial Law,"Regulation, Law & Taxation",Financial Regulation & Supervision
+202,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Futures Law,"Regulation, Law & Taxation",Securities & Market Regulation
+203,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Insurance Law,Risk Management & Insurance,Insurance & Actuarial Topics
+204,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Securities Law,"Regulation, Law & Taxation",Securities & Market Regulation
+205,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Tax Inspection,"Regulation, Law & Taxation",Tax Computation & Compliance
+206,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Tax Law I,"Regulation, Law & Taxation",Tax Computation & Compliance
+207,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Law,Tax Law Ii,"Regulation, Law & Taxation",Tax Computation & Compliance
+208,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Asset Appraiser,Corporate Finance & Governance,Corporate Valuation
+209,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Intermediate Accountant,"Accounting, Reporting & Audit",Financial Statements & Reporting
+210,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Intermediate Auditor,"Accounting, Reporting & Audit",Audit Planning & Risk
+211,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Intermediate Banking Professional,"Banking, Credit & Treasury",Banking & Deposit Products
+212,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Intermediate Economist,Economics & Monetary Systems,Macroeconomics & Business Cycles
+213,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Intermediate Statistician,Quantitative Methods & Financial Data,Probability & Statistics
+214,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Junior Accountant,"Accounting, Reporting & Audit",Financial Statements & Reporting
+215,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Junior Auditor,"Accounting, Reporting & Audit",Audit Planning & Risk
+216,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Junior Banking Professional,"Banking, Credit & Treasury",Banking & Deposit Products
+217,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Junior Economist,Economics & Monetary Systems,Macroeconomics & Business Cycles
+218,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Junior Statistician,Quantitative Methods & Financial Data,Probability & Statistics
+219,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Securities Analyst,Financial Markets & Instruments,Structured Products & Securitization
+220,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Practice,Tax Consultant,"Regulation, Law & Taxation",Tax Computation & Compliance
+221,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Banking Practitioner Qualification,"Banking, Credit & Treasury",Banking Regulation & Prudential Supervision
+222,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Certified Public Accountant,"Accounting, Reporting & Audit",Financial Statements & Reporting
+223,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Fund Practitioner Qualification,Financial Markets & Instruments,Financial Products & Services
+224,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Futures Practitioner Qualification,Financial Markets & Instruments,Financial Products & Services
+225,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Insurance Practitioner Qualification,Risk Management & Insurance,Insurance & Actuarial Topics
+226,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Real Estate Practitioner Qualification,Financial Markets & Instruments,Commodities & Real Assets
+227,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Securities Practitioner Qualification,Financial Markets & Instruments,Financial Products & Services
+228,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Qualification,Tax Practitioner Qualification,"Regulation, Law & Taxation",Tax Computation & Compliance
+229,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Auditing,"Accounting, Reporting & Audit",Audit Planning & Risk
+230,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Economic History,Economics & Monetary Systems,Macroeconomics & Business Cycles
+231,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Finance,Financial Markets & Instruments,Financial Products & Services
+232,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Industrial Economics,Economics & Monetary Systems,Microeconomics & Market Structure
+233,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,International Trade,Economics & Monetary Systems,International Economics & Trade
+234,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Macroeconomics,Economics & Monetary Systems,Macroeconomics & Business Cycles
+235,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Microeconomics,Economics & Monetary Systems,Microeconomics & Market Structure
+236,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Political Economics,Economics & Monetary Systems,Political Economy & Geopolitics
+237,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Public Finance,Economics & Monetary Systems,Fiscal Policy & Public Finance
+238,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Statistics,Economics & Monetary Systems,Macroeconomics & Business Cycles
+239,CFinBench Benchmark Taxonomy,Benchmark taxonomy,Financial Subject,Western Economics,Economics & Monetary Systems,Macroeconomics & Business Cycles
